@@ -12,6 +12,7 @@ A lightweight and efficient **notes app** built specifically for **Apple Watch**
 ![Image](https://github.com/user-attachments/assets/978c8e58-9f1a-4e6e-b2eb-d529c085fab5)
 ![Image](https://github.com/user-attachments/assets/ed01b186-527a-4ffa-b079-fd22a2f6ac87)
 ![Image](https://github.com/user-attachments/assets/867d5df5-125e-46c4-a8ce-226e5b842254)
+Video Preview Below. Kindly click the link to view it. Thank you!
 https://github.com/user-attachments/assets/281465d6-d4f1-4477-b84c-57327561db76
 
 ## ✨ Features  
